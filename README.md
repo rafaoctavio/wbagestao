@@ -1,2 +1,2 @@
-# wbagestao
-Projeto de Re-Desing do site da empresa Wba Gestão e Tecnologia.
+# WBAGestão
+Restruturação de layout do site da empresa WBAGestão
